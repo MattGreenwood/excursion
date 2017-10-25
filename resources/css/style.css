@@ -13,7 +13,8 @@ body{
 .hl1{
 	font-size:50px;
 	}
-.hl2 .hl3{
+	
+.hl2{
 	font-size:42px;
 	font-weight:300;
 	}
@@ -22,10 +23,6 @@ body{
 	font-size:21px;
 	color:gray;
 	}
-
-.hl3{
-	}
-
 
 .copyright{
 	text-align:right;
