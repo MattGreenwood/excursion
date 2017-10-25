@@ -1,0 +1,33 @@
+body{
+	background-color:black;
+	color:white;
+	font-family:Verdana;
+	text-align:Center;
+}
+
+.exLink{
+	color:aquamarine;
+	font-size:16px;
+}
+
+.hl1{
+	font-size:50px;
+	}
+.hl2 .hl3{
+	font-size:42px;
+	font-weight:300;
+	}
+
+.purpose{
+	font-size:21px;
+	color:gray;
+	}
+
+.hl3{
+	}
+
+
+.copyright{
+	text-align:right;
+	color:gray;
+}
